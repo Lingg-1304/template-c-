@@ -1,0 +1,1 @@
+{"name":"Local: HamiltonPath","url":"c:\\c++ Lingg\\chiacan\\HamiltonPath.cpp","tests":[{"id":1728762031528,"input":"5\n0 7\n8 10\n3 4\n5 0\n9 12\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++ Lingg\\chiacan\\HamiltonPath.cpp","group":"local","local":true}

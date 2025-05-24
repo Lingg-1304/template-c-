@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp"
+  },
+  "cSpell.ignoreWords": ["maxc"],
+  "cSpell.words": ["maxn"]
+}

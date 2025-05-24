@@ -1,0 +1,1 @@
+{"name":"Local: dsu","url":"c:\\c++ Lingg\\hoclaidothi\\dsu.cpp","tests":[{"id":1727631413882,"input":"6 4\n1 2\n2 3\n4 5\n5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++ Lingg\\hoclaidothi\\dsu.cpp","group":"local","local":true}

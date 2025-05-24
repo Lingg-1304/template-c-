@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"c:\\c++ Lingg\\Chia căn\\1.cpp","tests":[{"id":1728757750979,"input":"7 2\n3 1 2 2 3 3 7\n1 7\n3 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++ Lingg\\Chia căn\\1.cpp","group":"local","local":true}

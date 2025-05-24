@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\c++ Lingg\\ICPC\\test\\C.cpp","tests":[{"id":1729931350491,"input":"3\n6\n4 1 1 6 2 2\n3\n2 2 2\n9\n6 9 6 9 6 9 6 9 6","output":""},{"id":1729931415530,"input":"1\n6\n4 1 1 6 2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++ Lingg\\ICPC\\test\\C.cpp","group":"local","local":true}

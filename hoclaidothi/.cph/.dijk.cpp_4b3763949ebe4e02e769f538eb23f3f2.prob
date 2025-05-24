@@ -1,0 +1,1 @@
+{"name":"Local: dijk","url":"c:\\c++ Lingg\\hoclaidothi\\dijk.cpp","tests":[{"id":1727979086677,"input":"6 7\n1 2 2 \n2 4 3 \n3 4 2 \n1 3 4 \n4 6 2 \n3 5 2 \n5 4 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++ Lingg\\hoclaidothi\\dijk.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: caitui1","url":"c:\\c++ Lingg\\qhd\\caitui1.cpp","tests":[{"id":1729681137192,"input":"3 10 \n2 5\n1 9\n4 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++ Lingg\\qhd\\caitui1.cpp","group":"local","local":true}

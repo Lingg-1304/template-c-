@@ -1,0 +1,1 @@
+{"name":"Local: sophantu=k","url":"c:\\Code\\c++ Lingg\\tree\\sophantu=k.cpp","tests":[{"id":1745740611926,"input":"9 1\n1 2 3 1 2 3 2 1 1\n1 9 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\c++ Lingg\\tree\\sophantu=k.cpp","group":"local","local":true}

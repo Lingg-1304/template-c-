@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"c:\\c++ Lingg\\Convex Hull\\1.cpp","tests":[{"id":1731432925642,"input":"4\n100 100\n200 100\n100 200\n300 300\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++ Lingg\\Convex Hull\\1.cpp","group":"local","local":true}

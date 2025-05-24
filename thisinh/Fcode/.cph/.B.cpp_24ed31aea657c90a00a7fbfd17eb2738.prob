@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"c:\\c++ Lingg\\thisinh\\Fcode\\B.cpp","tests":[{"id":1729266147388,"input":"10\n33098\n52605\n9471\n-52596\n19628\n-66768\n-42601\n-4815\n36417\n78407","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++ Lingg\\thisinh\\Fcode\\B.cpp","group":"local","local":true}

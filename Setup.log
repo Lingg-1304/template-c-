@@ -1,0 +1,26 @@
+﻿2024-06-22 10:56:29.144   Log opened. (Time zone: UTC-07:00)
+2024-06-22 10:56:29.144   Setup version: Inno Setup version 5.5.9 (u)
+2024-06-22 10:56:29.144   Original Setup EXE: C:\PROGRA~3\Lenovo\Vantage\ADDIND~1\LENOVO~1\session\REPOSI~1\WWDF0G~1\Setup.exe
+2024-06-22 10:56:29.144   Setup command line: /SL5="$130678,10331901,180224,C:\PROGRA~3\Lenovo\Vantage\ADDIND~1\LENOVO~1\session\REPOSI~1\WWDF0G~1\Setup.exe" /VERYSILENT /PRELOAD /LOG="C:\Setup.log"
+2024-06-22 10:56:29.144   Windows version: 10.0.22631  (NT platform: Yes)
+2024-06-22 10:56:29.145   64-bit Windows: Yes
+2024-06-22 10:56:29.145   Processor architecture: x64
+2024-06-22 10:56:29.145   User privileges: Administrative
+2024-06-22 10:56:29.146   64-bit install mode: Yes
+2024-06-22 10:56:29.149   Created temporary directory: C:\Windows\TempInst\is-G61RM.tmp
+2024-06-22 10:56:29.152   Extracting temporary file: C:\Windows\TempInst\is-G61RM.tmp\devcon.exe
+2024-06-22 10:56:29.154   Extracting temporary file: C:\Windows\TempInst\is-G61RM.tmp\InstallSetting.exe
+2024-06-22 10:56:29.206   InstallParam=checkled preload -ledver 2.0.1.16 InstallSettingCode=0
+2024-06-22 10:56:29.217   InstallParam=checkyled preload -yledver 2.1.1.16 InstallSettingCode=0
+2024-06-22 10:56:29.227   InstallParam=checknetfilter preload -netfilterver 4.0.0.51 InstallSettingCode=1
+2024-06-22 10:56:29.227   Extracting temporary file: C:\Windows\TempInst\is-G61RM.tmp\FBNetFlt.sys
+2024-06-22 10:56:29.230   Extracting temporary file: C:\Windows\TempInst\is-G61RM.tmp\FBNetFilter.inf
+2024-06-22 10:56:29.231   Extracting temporary file: C:\Windows\TempInst\is-G61RM.tmp\fbnetfilter.cat
+2024-06-22 10:56:29.232   Extracting temporary file: C:\Windows\TempInst\is-G61RM.tmp\FBNetFilterInstall.exe
+2024-06-22 10:56:29.462   InstallLedDriver InstallNetDriver=0
+2024-06-22 10:56:29.514   InstallParam=checkxtu preload -xtu 7.7.0.12 InstallSettingCode=0
+2024-06-22 10:56:29.514   ResultCode=0
+2024-06-22 10:56:29.514   InitializeSetup returned False; aborting.
+2024-06-22 10:56:29.515   Got EAbort exception.
+2024-06-22 10:56:29.515   Deinitializing Setup.
+2024-06-22 10:56:29.515   Log closed.
